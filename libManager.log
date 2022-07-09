@@ -1,0 +1,15 @@
+\o Program:		@(#)$CDS: libManager.exe version Exp 01/19/2010 20:09 (ocelot-linux) $
+\o Sub version:		sub-version none
+\o Arguments:		-unmapped -mpssession icfb5670 -mpshost ic30.cs.nthu.edu.tw 
+\o Working Directory:	ic30.cs.nthu.edu.tw:/users/course/2021F/vlsi14000000/u108042019/layout
+\o Library Manager customization server connected.
+MPS service: map window
+\o Log file is "/users/course/2021F/vlsi14000000/u108042019/layout/libManager.log".
+Opening libManager window.
+Main selection: project1 aoi21 layout
+Invoking command (fileOpen).
+\o Opening design file through session server.
+MPS request: edit design
+MPS request: update library list
+MPS service: shutdown
+\o libManager is exiting.
