@@ -7,4 +7,4 @@ This is my layout AOI21 project, make an AOI21 gate with metal1 only. Minimize t
 - DRC, LVS tool: Calibre
 - Design specification:
 ![](https://i.imgur.com/bk53vSI.png)
-- Note: for more details, please refer to [project_report1.pdf](https://github.com/ccl1616/Layout-AOI21/blob/main/project_report1.pdf)
+- Note: For more details, please refer to [project_report1.pdf](https://github.com/ccl1616/Layout-AOI21/blob/main/project_report1.pdf)
